@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "playwright": "^1.47.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  },
+  "scripts": {}
+}
