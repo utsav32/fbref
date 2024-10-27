@@ -1,0 +1,13 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+4,Leonardo Campana,Inter Miami,0.42,0.59,Saved,4,Head,,Jordi Alba,Pass (Live),Yannick Bright,Pass (Live)
+6,Matías Rojas,Inter Miami,0.03,0.05,Saved,25,Left Foot,,Julian Gressel,Pass (Live),Yannick Bright,Pass (Live)
+11,Robert Taylor,Inter Miami,0.01,0.14,Saved,20,Right Foot,Deflected,Ben Cremaschi,Pass (Live),Matías Rojas,Pass (Live)
+15,Jordi Alba,Inter Miami,0.07,0.39,Saved,8,Left Foot,,Ben Cremaschi,Pass (Live),Jordi Alba,Pass (Live)
+24,Leonardo Campana,Inter Miami,0.04,,Blocked,22,Left Foot,,Julian Gressel,Pass (Live),Matías Rojas,Pass (Live)
+26,Ben Cremaschi,Inter Miami,0.07,,Blocked,15,Right Foot,,Marcelo Weigandt,Pass (Live),Julian Gressel,Pass (Live)
+38,Robert Taylor,Inter Miami,0.07,0.56,Goal,16,Right Foot,,Jordi Alba,Pass (Live),Yannick Bright,Pass (Live)
+,,,,,,,,,,,,
+54,Leonardo Campana,Inter Miami,0.51,0.98,Goal,11,Right Foot,,Robert Taylor,Pass (Live),Robert Taylor,Take-On
+87,David Ruiz,Inter Miami,0.03,,Blocked,19,Left Foot,,Robert Taylor,Pass (Live),Jordi Alba,Pass (Live)

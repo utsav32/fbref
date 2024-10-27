@@ -1,0 +1,12 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+11,Brian White,Vancouver W'caps,0.03,0.20,Saved,11,Head,,Ryan Gauld,Pass (Dead),,
+11,Mathías Laborda,Vancouver W'caps,0.03,0.03,Saved,12,Head,,Ryan Raposo,Pass (Live),Alessandro Schöpf,Pass (Live)
+14,Alessandro Schöpf,Vancouver W'caps,0.06,0.18,Saved,24,Right Foot,,Ryan Raposo,Pass (Live),Pedro Vite,Pass (Live)
+37,Fafà Picault,Vancouver W'caps,0.03,,Off Target,9,Head,,Ryan Gauld,Pass (Dead),Tristan Blackmon,Fouled
+,,,,,,,,,,,,
+62,Fafà Picault,Vancouver W'caps,0.02,,Blocked,25,Right Foot,,Fafà Picault,Take-On,Ryan Gauld,Pass (Live)
+73,Sebastian Berhalter,Vancouver W'caps,0.02,0.11,Saved,27,Right Foot,,Fafà Picault,Pass (Live),Tristan Blackmon,Pass (Live)
+90,Sebastian Berhalter,Vancouver W'caps,0.01,,Blocked,21,Right Foot,,Ryan Gauld,Pass (Dead),Javain Brown,Fouled
+90+5,Ryan Gauld (pen),Vancouver W'caps,0.79,1.00,Goal,13,Left Foot,,,Fouled,Sebastian Berhalter,Shot

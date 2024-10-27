@@ -1,0 +1,22 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+2,Fafà Picault,Vancouver W'caps,0.05,0.00,Blocked,13,Left Foot,,Ryan Gauld,Pass (Live),Pedro Vite,Pass (Live)
+4,Ranko Veselinović,Vancouver W'caps,0.10,0.00,Off Target,8,Head,,Ryan Gauld,Pass (Dead),Fafà Picault,Shot
+9,Pedro Vite,Vancouver W'caps,0.07,0.00,Off Target,17,Left Foot,Volley,Ryan Gauld,Fouled,Pedro Vite,Pass (Live)
+15,Andrés Cubas,Vancouver W'caps,0.02,0.04,Saved,27,Right Foot,,Ali Ahmed,Pass (Live),Pedro Vite,Pass (Live)
+24,Sebastian Berhalter,Vancouver W'caps,0.02,0.00,Off Target,30,Right Foot,,Pedro Vite,Pass (Live),Bjørn Inge Utvik,Pass (Live)
+31,Sebastian Berhalter,Vancouver W'caps,0.03,0.00,Blocked,25,Right Foot,,Fafà Picault,Pass (Live),Ryan Gauld,Pass (Live)
+34,Bjørn Inge Utvik,Vancouver W'caps,0.06,0.00,Off Target,17,Right Foot,,Sebastian Berhalter,Pass (Live),Ali Ahmed,Pass (Live)
+35,Fafà Picault,Vancouver W'caps,0.02,0.25,Saved,32,Right Foot,,Ryan Gauld,Pass (Live),Fafà Picault,Pass (Live)
+35,Pedro Vite,Vancouver W'caps,0.02,0.00,Blocked,27,Left Foot,Volley,Ryan Gauld,Pass (Dead),Fafà Picault,Shot
+40,Ryan Gauld,Vancouver W'caps,0.02,0.00,Blocked,25,Left Foot,,Ryan Gauld,Tackle,,
+41,Mathías Laborda,Vancouver W'caps,0.10,0.00,Off Target,4,Head,,Ryan Gauld,Pass (Dead),Ryan Gauld,Shot
+,,,,,,,,,,,,
+52,Ryan Gauld,Vancouver W'caps,0.04,0.00,Blocked,15,Left Foot,,Bjørn Inge Utvik,Pass (Live),Ali Ahmed,Pass (Live)
+59,Bjørn Inge Utvik,Vancouver W'caps,0.07,0.36,Saved,9,Head,,Fafà Picault,Pass (Live),Sebastian Berhalter,Pass (Live)
+70,Ali Ahmed,Vancouver W'caps,0.06,0.00,Blocked,17,Right Foot,,Andrés Cubas,Pass (Live),Pedro Vite,Pass (Live)
+70,Pedro Vite,Vancouver W'caps,0.05,0.29,Goal,24,Right Foot,,Ryan Gauld,Pass (Live),Pedro Vite,Pass (Live)
+88,Alessandro Schöpf,Vancouver W'caps,0.03,0.00,Off Target,25,Right Foot,,Pedro Vite,Pass (Live),Alessandro Schöpf,Pass (Live)
+90,Ali Ahmed,Vancouver W'caps,0.14,0.00,Blocked,17,Right Foot,,Fafà Picault,Pass (Live),Ali Ahmed,Pass (Live)
+90+5,Mathías Laborda,Vancouver W'caps,0.03,0.00,Blocked,21,Right Foot,,Alessandro Schöpf,Pass (Live),,

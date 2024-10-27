@@ -1,0 +1,22 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+15,Griffin Dorsey,Houston Dynamo,0.02,0.28,Saved,14,Head,,Aliyu Ibrahim,Pass (Live),Amine Bassi,Pass (Live)
+17,Aliyu Ibrahim,Houston Dynamo,0.04,,Off Target,21,Right Foot,,Amine Bassi,Pass (Live),Héctor Herrera,Pass (Live)
+18,Amine Bassi,Houston Dynamo,0.07,,Blocked,15,Right Foot,,Adalberto Carrasquilla,Pass (Live),Griffin Dorsey,Pass (Live)
+19,Amine Bassi,Houston Dynamo,0.02,,Off Target,28,Right Foot,,,,,
+29,Adalberto Carrasquilla,Houston Dynamo,0.11,0.33,Goal,16,Right Foot,Deflected,Aliyu Ibrahim,Pass (Live),Franco Escobar,Pass (Live)
+36,Griffin Dorsey,Houston Dynamo,0.07,0.37,Goal,22,Left Foot,,Héctor Herrera,Pass (Live),Erik Sviatchenko,Pass (Live)
+44,Amine Bassi,Houston Dynamo,0.06,,Blocked,24,Right Foot,,Adalberto Carrasquilla,Pass (Live),Aliyu Ibrahim,Pass (Live)
+45,Aliyu Ibrahim,Houston Dynamo,0.02,,Off Target,21,Right Foot,Volley,Amine Bassi,Shot,,
+45,Erik Sviatchenko,Houston Dynamo,0.09,0.02,Saved,10,Right Foot,,Aliyu Ibrahim,Shot,,
+,,,,,,,,,,,,
+53,Amine Bassi,Houston Dynamo,0.07,,Off Target,21,Right Foot,,Adalberto Carrasquilla,Pass (Live),Franco Escobar,Pass (Live)
+59,Amine Bassi,Houston Dynamo,0.21,0.53,Saved,7,Right Foot,Deflected, Volley,Griffin Dorsey,Pass (Live),Héctor Herrera,Pass (Live)
+63,Aliyu Ibrahim,Houston Dynamo,0.07,,Blocked,18,Right Foot,,Amine Bassi,Pass (Live),Franco Escobar,Pass (Live)
+78,Brad Smith,Houston Dynamo,0.02,0.64,Goal,23,Left Foot,,Sebastián Ferreira,Pass (Live),Sebastian Kowalczyk,Pass (Live)
+80,Adalberto Carrasquilla,Houston Dynamo,0.02,,Blocked,30,Right Foot,,Héctor Herrera,Pass (Live),Franco Escobar,Pass (Live)
+84,Sebastian Kowalczyk,Houston Dynamo,0.04,,Off Target,12,Head,,Héctor Herrera,Pass (Live),Griffin Dorsey,Pass (Live)
+87,Sebastián Ferreira,Houston Dynamo,0.12,,Blocked,11,Left Foot,,Sebastian Kowalczyk,Pass (Live),Brad Smith,Pass (Live)
+87,Sebastián Ferreira,Houston Dynamo,0.10,,Blocked,12,Right Foot,,Sebastián Ferreira,Shot,,
+87,Griffin Dorsey,Houston Dynamo,0.03,0.24,Goal,17,Right Foot,,Sebastián Ferreira,Shot,,

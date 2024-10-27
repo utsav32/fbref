@@ -1,0 +1,13 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+6,Nökkvi Þórisson,St. Louis,0.05,,Blocked,10,Left Foot,,,,,
+7,Njabulo Blom,St. Louis,0.01,0.19,Goal,28,Right Foot,Deflected, Volley,Nökkvi Þórisson,Shot,,
+11,Eduard Löwen,St. Louis,0.16,,Blocked,12,Right Foot,,Tomas Totland,Pass (Live),John Klein,Pass (Live)
+12,Eduard Löwen (pen),St. Louis,0.79,1.00,Goal,13,Right Foot,,,Fouled,Eduard Löwen,Shot
+31,John Klein,St. Louis,0.39,0.82,Saved,4,Right Foot,,Eduard Löwen,Pass (Live),Nökkvi Þórisson,Pass (Live)
+,,,,,,,,,,,,
+73,Nökkvi Þórisson,St. Louis,0.15,,Off Target,7,Head,,Indiana Vassilev,Pass (Live),Akil Watts,Pass (Live)
+80,Nökkvi Þórisson,St. Louis,0.06,,Off Target,18,Left Foot,,,,,
+89,Nökkvi Þórisson,St. Louis,0.06,,Blocked,23,Right Foot,,Eduard Löwen,Pass (Live),Akil Watts,Pass (Live)
+90+3,Nökkvi Þórisson,St. Louis,0.32,0.86,Goal,8,Left Foot,,Indiana Vassilev,Pass (Live),Tomas Totland,Pass (Live)

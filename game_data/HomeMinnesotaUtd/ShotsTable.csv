@@ -1,0 +1,22 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+4,Tani Oluwaseyi,Minnesota Utd,0.09,0.00,Off Target,22,Left Foot,,Bongokuhle Hlongwane,Pass (Live),Jeong Sangbin,Pass (Live)
+7,Jeong Sangbin,Minnesota Utd,0.04,0.05,Saved,31,Right Foot,Free kick,Joaquín Pereyra,Fouled,Joaquín Pereyra,Take-On
+17,Joaquín Pereyra,Minnesota Utd,0.03,0.00,Off Target,27,Left Foot,,Tani Oluwaseyi,Pass (Live),Joaquín Pereyra,Pass (Live)
+19,Anthony Markanich,Minnesota Utd,0.01,0.03,Saved,11,Head,,Miguel Tapias,Pass (Dead),Tani Oluwaseyi,Fouled
+20,Tani Oluwaseyi,Minnesota Utd,0.38,0.21,Saved,13,Left Foot,,Joaquín Pereyra,Pass (Live),Anthony Markanich,Pass (Live)
+24,Hassani Dotson (pen),Minnesota Utd,0.79,0.93,Goal,13,Right Foot,,Carlos Harvey,Fouled,Bongokuhle Hlongwane,Pass (Live)
+29,Bongokuhle Hlongwane,Minnesota Utd,0.18,0.00,Blocked,13,Left Foot,,Anthony Markanich,Pass (Live),Joaquín Pereyra,Pass (Live)
+29,Hassani Dotson,Minnesota Utd,0.16,0.00,Blocked,17,Right Foot,,Bongokuhle Hlongwane,Shot,,
+43,Tani Oluwaseyi,Minnesota Utd,0.11,0.00,Blocked,13,Left Foot,,Anthony Markanich,Pass (Live),Wil Trapp,Pass (Live)
+,,,,,,,,,,,,
+47,Hassani Dotson,Minnesota Utd,0.03,0.00,Blocked,28,Right Foot,,Bongokuhle Hlongwane,Pass (Live),Anthony Markanich,Pass (Live)
+47,Bongokuhle Hlongwane,Minnesota Utd,0.07,0.00,Blocked,8,Head,,Jeong Sangbin,Pass (Live),Hassani Dotson,Shot
+47,Anthony Markanich,Minnesota Utd,0.04,0.00,Off Target,13,Right Foot,Volley,Bongokuhle Hlongwane,Shot,,
+66,Kelvin Yeboah,Minnesota Utd,0.08,0.00,Blocked,16,Right Foot,,Joseph Rosales,Pass (Live),Robin Lod,Pass (Live)
+67,Robin Lod,Minnesota Utd,0.03,0.00,Blocked,8,Left Foot,Volley,Joseph Rosales,Pass (Dead),,
+67,Hassani Dotson,Minnesota Utd,0.03,0.00,Blocked,12,Head,,Wil Trapp,Pass (Live),Robin Lod,Shot
+74,Loïc Mesanvi,Minnesota Utd,0.26,0.28,Saved,12,Right Foot,,Robin Lod,Pass (Live),Dayne St. Clair,Pass (Live)
+90+6,Kelvin Yeboah,Minnesota Utd,0.12,0.00,Blocked,14,Right Foot,,Joseph Rosales,Pass (Live),Kelvin Yeboah,Pass (Live)
+90+6,Joseph Rosales,Minnesota Utd,0.22,0.00,Woodwork,12,Right Foot,,Kelvin Yeboah,Shot,,

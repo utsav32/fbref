@@ -1,0 +1,4 @@
+,Shot Stopping,Launched,Passes,Goal Kicks,Crosses,Sweeper
+,Shot Stopping,Launched,Passes,Goal Kicks,Crosses,Sweeper
+Player,Nation,Age,Min,SoTA,GA,Saves,Save%,PSxG,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,AvgDist
+Tim Melia,us USA,38-063,90,4,2,3,50.0,0.6,3,12,25.0,20,6,30.0,32.2,9,66.7,48.4,13,0,0.0,0,12.0

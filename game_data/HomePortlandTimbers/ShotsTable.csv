@@ -1,0 +1,16 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+16,Juan David Mosquera,Portland Timbers,0.01,0.04,Saved,32,Right Foot,,David Ayala,Pass (Live),Diego Chará,Pass (Live)
+23,Jonathan Rodríguez,Portland Timbers,0.27,0.00,Off Target,9,Left Foot,,Evander,Pass (Live),Diego Chará,Pass (Live)
+40,Evander,Portland Timbers,0.01,0.13,Saved,25,Right Foot,,Juan David Mosquera,Pass (Live),Evander,Pass (Live)
+40,David Ayala,Portland Timbers,0.01,0.00,Off Target,34,Left Foot,,Diego Chará,Pass (Live),Evander,Pass (Live)
+42,Jonathan Rodríguez,Portland Timbers,0.08,0.00,Blocked,13,Right Foot,,Evander,Pass (Live),Diego Chará,Pass (Live)
+44,David Ayala,Portland Timbers,0.12,0.00,Off Target,9,Head,,Evander,Pass (Dead),Jonathan Rodríguez,Fouled
+,,,,,,,,,,,,
+48,Evander,Portland Timbers,0.02,0.05,Saved,34,Right Foot,,Kamal Miller,Pass (Live),Kamal Miller,Interception
+51,Santiago Moreno,Portland Timbers,0.05,0.00,Off Target,25,Right Foot,,Felipe Mora,Pass (Live),Santiago Moreno,Pass (Live)
+54,Jonathan Rodríguez,Portland Timbers,0.02,0.00,Off Target,14,Head,,,,,
+57,Jonathan Rodríguez,Portland Timbers,0.05,0.00,Off Target,16,Right Foot,Volley,Felipe Mora,Pass (Live),David Ayala,Pass (Live)
+58,Evander,Portland Timbers,0.02,0.08,Saved,30,Right Foot,,Santiago Moreno,Pass (Live),Evander,Pass (Dead)
+73,Evander,Portland Timbers,0.05,0.00,Off Target,31,Right Foot,Free kick,Felipe Mora,Fouled,Evander,Pass (Live)

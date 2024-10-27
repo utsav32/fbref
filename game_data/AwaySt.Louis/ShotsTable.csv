@@ -1,0 +1,17 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+3,Bjørn Inge Utvik,Vancouver W'caps,0.08,,Blocked,9,Head,,Ryan Gauld,Pass (Dead),,
+9,Brian White,Vancouver W'caps,0.31,0.68,Goal,16,Right Foot,,Ryan Gauld,Pass (Live),,
+30,Brian White,Vancouver W'caps,0.35,0.35,Saved,17,Right Foot,,Mathías Laborda,Pass (Live),Ranko Veselinović,Pass (Live)
+33,Brian White,Vancouver W'caps,0.04,,Off Target,10,Right Foot,,Ryan Gauld,Pass (Live),Sebastian Berhalter,Pass (Dead)
+36,Sebastian Berhalter,Vancouver W'caps,0.21,,Off Target,11,Right Foot,Volley,Brian White,Pass (Live),Sebastian Berhalter,Pass (Live)
+39,Ryan Gauld,Vancouver W'caps,0.02,0.13,Saved,28,Left Foot,,Sebastian Berhalter,Pass (Live),Andrés Cubas,Pass (Live)
+41,Brian White,Vancouver W'caps,0.05,,Off Target,8,Head,,Sebastian Berhalter,Pass (Dead),Bjørn Inge Utvik,Pass (Live)
+44,Fafà Picault,Vancouver W'caps,0.09,0.11,Saved,9,Head,,Mathías Laborda,Pass (Live),Sebastian Berhalter,Pass (Live)
+44,Brian White,Vancouver W'caps,0.45,0.72,Goal,3,Left Foot,,Fafà Picault,Shot,,
+,,,,,,,,,,,,
+63,Ryan Raposo,Vancouver W'caps,0.12,0.39,Goal,11,Right Foot,,Sebastian Berhalter,Pass (Live),Ryan Gauld,Pass (Live)
+76,Fafà Picault,Vancouver W'caps,0.10,0.37,Saved,13,Right Foot,,Ryan Gauld,Pass (Live),Brian White,Pass (Live)
+90+2,Fafà Picault,Vancouver W'caps,0.88,0.87,Goal,12,Right Foot,,Fafà Picault,Take-On,Ryan Gauld,Pass (Live)
+90+10,Alessandro Schöpf,Vancouver W'caps,0.08,0.07,Saved,16,Right Foot,Deflected,Alessandro Schöpf,Take-On,Ryan Gauld,Pass (Live)

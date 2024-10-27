@@ -1,7 +1,15 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, Page } from "@playwright/test";
 import { extractTableToCSV } from "../src/utils"; // Ensure this path is correct
 import * as fs from "fs";
 import * as path from "path";
+
+async function closePopupIfVisible(page: Page) {
+  const closeButton = page.getByLabel("Close in-page popup window");
+  if (await closeButton.isVisible()) {
+    await closeButton.first().click();
+    console.log("Popup closed");
+  }
+}
 
 test("Extract data table and save as CSV", async ({ page }) => {
   // Go to the page containing the table
@@ -73,6 +81,8 @@ test("Extract data table from all the matches and save as CSV", async ({
     "https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats"
   );
 
+  await page.waitForLoadState("domcontentloaded");
+
   const matchesCount = await page
     .locator("#all_matchlogs")
     .filter({ hasText: "Scores & Fixtures" })
@@ -80,11 +90,21 @@ test("Extract data table from all the matches and save as CSV", async ({
     .locator("tr")
     .count();
 
+  const matchReportCount = await page
+    .locator("#all_matchlogs")
+    .filter({ hasText: "Scores & Fixtures" })
+    .locator(".stats_table")
+    .locator("tr")
+    .getByText("Match Report")
+    .count();
+
   console.log(`Found ${matchesCount} tables on the page.`);
+  console.log(`Found ${matchReportCount} on the page.`);
 
   let gameName: string | null;
-  for (let i = 1; i < matchesCount; i++) {
-    const matchReport = await page
+  let venue: string | null;
+  for (let i = 37; i <= matchReportCount; i++) {
+    const matchReport = page
       .locator("#all_matchlogs")
       .filter({ hasText: "Scores & Fixtures" })
       .locator(".stats_table")
@@ -100,12 +120,23 @@ test("Extract data table from all the matches and save as CSV", async ({
       .nth(i)
       .locator('[data-stat="opponent"] a')
       .textContent();
+    venue = await page
+      .locator("#all_matchlogs")
+      .filter({ hasText: "Scores & Fixtures" })
+      .locator(".stats_table")
+      .locator("tr")
+      .nth(i)
+      .locator('[data-stat="venue"]')
+      .textContent();
+    await page.waitForTimeout(5000);
 
+    closePopupIfVisible(page);
     await matchReport.click();
-    console.log("Game Opponent:", gameName);
+    console.log("Game Opponent:", venue! + gameName!);
 
-    const formattedGameName = gameName
-      ? gameName.replace(/\s+/g, "").substring(0, 10)
+    const folderName = venue! + gameName!;
+    const formattedGameName = folderName
+      ? folderName.replace(/\s+/g, "").substring(0, 20)
       : "default_name";
 
     const gameFolderPath = path.resolve("game_data", formattedGameName); // Using path.resolve here
@@ -113,7 +144,7 @@ test("Extract data table from all the matches and save as CSV", async ({
       fs.mkdirSync(gameFolderPath, { recursive: true });
     }
 
-    await page.waitForTimeout(10000);
+    await page.waitForTimeout(2000);
 
     const tableCount = await page.locator(".stats_table").count();
     console.log(`Found ${tableCount} tables on the page.`);
@@ -128,7 +159,7 @@ test("Extract data table from all the matches and save as CSV", async ({
         .textContent();
 
       const formattedTableName = tableName
-        ? tableName.replace(/\s+/g, "").substring(0, 10)
+        ? tableName.replace(/\s+/g, "").substring(0, 20)
         : "default_name";
 
       const fileName = `${formattedTableName}.csv`;

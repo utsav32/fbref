@@ -1,0 +1,16 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+7,Gabriel Chaves,LA Galaxy,0.03,,Blocked,19,Left Foot,,Joseph Paintsil,Pass (Live),Marky Delgado,Pass (Live)
+9,Gabriel Chaves,LA Galaxy,0.07,0.13,Saved,16,Left Foot,,Joseph Paintsil,Pass (Live),Joseph Paintsil,Take-On
+25,Riqui Puig,LA Galaxy,0.03,,Off Target,31,Right Foot,,Julián Aude,Pass (Live),Riqui Puig,Pass (Live)
+32,Julián Aude,LA Galaxy,0.05,,Blocked,22,Right Foot,,Marky Delgado,Pass (Live),,
+37,Joseph Paintsil,LA Galaxy,0.03,,Off Target,15,Right Foot,,Marky Delgado,Pass (Live),Riqui Puig,Pass (Live)
+45,Gastón Brugman,LA Galaxy,0.03,,Off Target,32,Right Foot,,Riqui Puig,Pass (Live),Riqui Puig,Pass (Live)
+,,,,,,,,,,,,
+49,Gabriel Chaves,LA Galaxy,0.18,,Woodwork,9,Head,,Julián Aude,Pass (Live),Gastón Brugman,Pass (Live)
+49,Gastón Brugman,LA Galaxy,0.23,,Off Target,13,Right Foot,,Gabriel Chaves,Shot,,
+56,Gabriel Chaves,LA Galaxy,0.15,0.17,Saved,12,Left Foot,,Riqui Puig,Pass (Live),,
+56,Dejan Joveljić,LA Galaxy,0.77,0.76,Goal,10,Right Foot,,Gabriel Chaves,Shot,,
+80,Joseph Paintsil,LA Galaxy,0.62,0.97,Goal,8,Right Foot,,Riqui Puig,Pass (Live),Julián Aude,Pass (Live)
+82,Diego Fagúndez,LA Galaxy,0.41,0.90,Goal,11,Right Foot,Deflected,Joseph Paintsil,Pass (Live),Riqui Puig,Pass (Live)

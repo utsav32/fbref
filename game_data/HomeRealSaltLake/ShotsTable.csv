@@ -1,0 +1,27 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+10,Cristian Arango,Real Salt Lake,0.01,,Off Target,33,Left Foot,Volley,Brayan Vera,Pass (Live),Zac MacMath,Pass (Live)
+20,Anderson Julio,Real Salt Lake,0.03,,Blocked,29,Left Foot,,Cristian Arango,Pass (Live),Justen Glad,Pass (Live)
+26,Cristian Arango,Real Salt Lake,0.02,,Off Target,35,Right Foot,,Bode Davis,Pass (Live),Anderson Julio,Pass (Live)
+40,Cristian Arango,Real Salt Lake,0.05,,Off Target,27,Right Foot,Free kick,,Fouled,Emeka Eneli,Pass (Live)
+43,Alexandros Katranis,Real Salt Lake,0.03,,Off Target,23,Right Foot,,,,,
+45+1,Braian Ojeda,Real Salt Lake,0.02,,Off Target,33,Right Foot,,,,,
+,,,,,,,,,,,,
+51,Cristian Arango,Real Salt Lake,0.03,,Blocked,27,Right Foot,,Justen Glad,Pass (Dead),Braian Ojeda,Fouled
+51,Bode Davis,Real Salt Lake,0.02,,Blocked,19,Right Foot,,Cristian Arango,Shot,,
+54,Fidel Barajas,Real Salt Lake,0.04,0.41,Saved,22,Left Foot,,Anderson Julio,Pass (Live),Cristian Arango,Pass (Live)
+54,Brayan Vera,Real Salt Lake,0.03,,Off Target,28,Right Foot,,Fidel Barajas,Shot,,
+55,Anderson Julio,Real Salt Lake,0.04,0.09,Saved,22,Left Foot,,,,,
+56,Fidel Barajas,Real Salt Lake,0.03,,Woodwork,20,Left Foot,Volley,Bode Davis,Pass (Live),Braian Ojeda,Pass (Live)
+58,Fidel Barajas,Real Salt Lake,0.02,,Blocked,16,Left Foot,,Braian Ojeda,Pass (Live),Bode Davis,Pass (Live)
+61,Cristian Arango,Real Salt Lake,0.04,,Off Target,15,Head,,Andrew Brody,Pass (Live),Andrew Brody,Take-On
+62,Anderson Julio,Real Salt Lake,0.14,,Blocked,17,Right Foot,,Cristian Arango,Pass (Live),Bode Davis,Pass (Live)
+65,Bode Davis,Real Salt Lake,0.02,,Blocked,28,Right Foot,,Cristian Arango,Pass (Live),Bode Davis,Pass (Live)
+65,Cristian Arango,Real Salt Lake,0.03,,Off Target,13,Head,,Andrew Brody,Pass (Live),Bode Davis,Shot
+67,Anderson Julio,Real Salt Lake,0.04,,Off Target,14,Head,,Andrew Brody,Pass (Live),Braian Ojeda,Pass (Live)
+67,Alexandros Katranis,Real Salt Lake,0.04,,Off Target,16,Left Foot,,Anderson Julio,Shot,,
+70,Anderson Julio,Real Salt Lake,0.19,0.84,Goal,10,Right Foot,,Fidel Barajas,Pass (Live),Cristian Arango,Pass (Live)
+74,Cristian Arango,Real Salt Lake,0.01,,Off Target,40,Right Foot,,,,,
+76,Alexandros Katranis,Real Salt Lake,0.03,0.63,Goal,21,Left Foot,,Fidel Barajas,Pass (Live),Cristian Arango,Pass (Live)
+79,Braian Ojeda,Real Salt Lake,0.02,0.02,Saved,31,Right Foot,,Emeka Eneli,Pass (Live),Anderson Julio,Pass (Live)

@@ -1,0 +1,14 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+6,Georgi Minoungou,Seattle Sounders FC,0.09,0.00,Off Target,14,Left Foot,,Nouhou Tolo,Pass (Live),Paul Rothrock,Pass (Live)
+12,Obed Vargas,Seattle Sounders FC,0.03,0.00,Off Target,22,Right Foot,,Albert Rusnák,Pass (Live),Alex Roldan,Pass (Live)
+14,Jordan Morris,Seattle Sounders FC,0.02,0.00,Off Target,11,Head,,Albert Rusnák,Pass (Dead),Georgi Minoungou,Fouled
+14,Georgi Minoungou,Seattle Sounders FC,0.20,0.57,Goal,3,Right Foot,,Jordan Morris,Shot,,
+24,Georgi Minoungou,Seattle Sounders FC,0.02,0.00,Off Target,14,Right Foot,,Jordan Morris,Pass (Live),Alex Roldan,Pass (Live)
+42,Paul Rothrock,Seattle Sounders FC,0.07,0.00,Blocked,15,Right Foot,,Jordan Morris,Pass (Live),Albert Rusnák,Pass (Live)
+,,,,,,,,,,,,
+61,Obed Vargas,Seattle Sounders FC,0.04,0.07,Saved,29,Right Foot,,,,,
+65,Albert Rusnák (pen),Seattle Sounders FC,0.79,0.91,Goal,13,Right Foot,,Paul Rothrock,Fouled,,
+67,Paul Rothrock,Seattle Sounders FC,0.25,0.87,Goal,12,Left Foot,,Albert Rusnák,Pass (Live),Jordan Morris,Pass (Live)
+75,Jordan Morris,Seattle Sounders FC,0.20,0.23,Saved,16,Right Foot,,Albert Rusnák,Pass (Live),Georgi Minoungou,Pass (Live)

@@ -1,0 +1,18 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+8,Javain Brown,Vancouver W'caps,0.01,,Blocked,12,Head,,Ryan Gauld,Pass (Dead),Brian White,Pass (Live)
+9,Ranko Veselinović,Vancouver W'caps,0.04,,Off Target,10,Head,,Sebastian Berhalter,Pass (Dead),Javain Brown,Shot
+13,Brian White,Vancouver W'caps,0.06,,Off Target,12,Right Foot,Volley,Bjørn Inge Utvik,Pass (Live),Sebastian Berhalter,Pass (Live)
+20,Fafà Picault,Vancouver W'caps,0.05,,Woodwork,5,Right Foot,,Fafà Picault,Take-On,Alessandro Schöpf,Pass (Live)
+29,Brian White,Vancouver W'caps,0.26,0.96,Goal,5,Right Foot,,Fafà Picault,Pass (Live),Ryan Gauld,Pass (Live)
+34,Sebastian Berhalter,Vancouver W'caps,0.04,,Blocked,16,Right Foot,,Andrés Cubas,Pass (Live),Alessandro Schöpf,Pass (Live)
+38,Javain Brown,Vancouver W'caps,0.04,0.03,Saved,23,Right Foot,Volley,Sebastian Berhalter,Pass (Dead),Fafà Picault,Pass (Live)
+45+1,Sebastian Berhalter,Vancouver W'caps,0.19,,Blocked,12,Left Foot,,Fafà Picault,Pass (Live),Ryan Gauld,Pass (Live)
+45+2,Brian White,Vancouver W'caps,0.24,0.52,Saved,7,Right Foot,,Sebastian Berhalter,Pass (Dead),Sebastian Berhalter,Shot
+,,,,,,,,,,,,
+53,Fafà Picault,Vancouver W'caps,0.02,,Blocked,28,Right Foot,,Alessandro Schöpf,Pass (Live),,
+57,Alessandro Schöpf,Vancouver W'caps,0.33,,Blocked,13,Right Foot,,Ryan Gauld,Pass (Live),Sebastian Berhalter,Pass (Live)
+63,Sebastian Berhalter,Vancouver W'caps,0.05,,Blocked,17,Right Foot,,Ryan Raposo,Pass (Live),Sebastian Berhalter,Pass (Live)
+88,Nicolas Fleuriau,Vancouver W'caps,0.05,,Off Target,12,Left Foot,,Ralph Priso-Mbongue,Pass (Live),Levonte Johnson,Pass (Live)
+90,Giuseppe Bovalina,Vancouver W'caps,0.04,0.04,Saved,27,Left Foot,,Sebastian Berhalter,Pass (Live),,

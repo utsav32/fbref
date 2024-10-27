@@ -1,0 +1,16 @@
+,SCA 1,SCA 2
+,SCA 1,SCA 2
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+1,Mateusz Bogusz,LAFC,0.07,0.32,Goal,13,Left Foot,,David Martínez,Pass (Live),Olivier Giroud,Pass (Live)
+7,David Martínez,LAFC,0.02,0.00,Blocked,25,Left Foot,,Timmy Tillman,Pass (Live),Sergi Palencia,Pass (Live)
+10,Olivier Giroud,LAFC,0.12,0.66,Saved,11,Left Foot,Deflected,Lewis O'Brien,Pass (Live),Timmy Tillman,Pass (Live)
+21,Eddie Segura,LAFC,0.12,0.82,Saved,9,Head,,Mateusz Bogusz,Pass (Dead),Timmy Tillman,Pass (Live)
+23,Mateusz Bogusz,LAFC,0.04,0.00,Off Target,20,Right Foot,,Lewis O'Brien,Pass (Live),,
+24,Lewis O'Brien,LAFC,0.03,0.00,Blocked,23,Left Foot,,Mateusz Bogusz,Pass (Live),Lewis O'Brien,Pass (Live)
+35,David Martínez,LAFC,0.06,0.00,Off Target,23,Left Foot,,Olivier Giroud,Pass (Live),Mateusz Bogusz,Pass (Live)
+,,,,,,,,,,,,
+73,Timmy Tillman,LAFC,0.05,0.00,Blocked,18,Right Foot,,Mateusz Bogusz,Pass (Live),Lewis O'Brien,Pass (Live)
+77,Sergi Palencia,LAFC,0.23,0.00,Off Target,9,Head,,Timmy Tillman,Pass (Live),Omar Campos,Pass (Live)
+90,Eddie Segura,LAFC,0.04,0.00,Blocked,12,Head,,Timmy Tillman,Pass (Live),Nathan Ordaz,Pass (Live)
+90+1,Kei Kamara,LAFC,0.03,0.00,Off Target,11,Head,,Timmy Tillman,Pass (Live),Omar Campos,Pass (Live)
+90+3,Ilie Sánchez,LAFC,0.03,0.34,Goal,22,Right Foot,,Kei Kamara,Pass (Live),Nathan Ordaz,Pass (Live)
